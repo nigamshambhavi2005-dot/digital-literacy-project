@@ -2,7 +2,7 @@
 
 ## 👩‍🎓 Student Details
 
-* **Name:** Shambhavi
+* **Name:** Shambhavi Nigam
 * **Registration Number:** 25BSA10111
 * **Branch:** Computer Science and Engineering in Cloud Computing
 * **University:** VIT Bhopal University
