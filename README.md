@@ -2,9 +2,9 @@
 
 ## 👩‍🎓 Student Details
 
-* **Name:** [Your Name]
-* **Registration Number:** [Your Reg No.]
-* **Branch:** [Your Branch]
+* **Name:** Shambhavi
+* **Registration Number:** 25BSA10111
+* **Branch:** Computer Science and Engineering in Cloud Computing
 * **University:** VIT Bhopal University
 * **Course:** CSE0001 – Digital Literacy
 
