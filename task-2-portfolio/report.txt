@@ -1,0 +1,17 @@
+
+
+
+PROJECT REPORT
+
+
+
+
+A professional digital presence is important for showcasing skills and connecting with opportunities. For this task, I created profiles on GitHub, LinkedIn, and Kaggle. GitHub is used to store and share code, allowing developers to collaborate and build projects. LinkedIn is a professional networking platform where students and professionals connect, share achievements, and explore job opportunities. Kaggle is a platform for data science and machine learning where users can practice problems and participate in competitions.
+
+Over the next four years, I plan to actively use GitHub to upload my projects and improve my coding skills. I will use LinkedIn to build a professional network, connect with industry experts, and stay updated with job opportunities. On Kaggle, I aim to practice data analysis and participate in competitions to strengthen my practical knowledge. These platforms will help me build a strong portfolio and improve my career prospects.
+    
+--  BY SHAMBHAVI NIGAM
+-- 25BSA10111
+  
+
+
